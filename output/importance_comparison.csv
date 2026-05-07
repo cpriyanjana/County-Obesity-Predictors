@@ -1,0 +1,7 @@
+predictor,Model,Importance
+Poverty Rate,Linear (|β|),0.1514571879513609
+Poverty Rate,Random Forest (%IncMSE),0.7320415365360629
+Median Income,Linear (|β|),1
+Median Income,Random Forest (%IncMSE),0.7458206270999465
+No HS Diploma,Linear (|β|),0.2748921439746933
+No HS Diploma,Random Forest (%IncMSE),1
